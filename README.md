@@ -1,6 +1,7 @@
 # How Expressive are Transformers in Spectral Domain for Graphs?
 
-This repository implements the approach outlined in the paper "How Expressive are Transformers in Spectral Domain for Graphs?"
+This repository implements the approach outlined in the paper "How Expressive are Transformers in Spectral Domain for Graphs?". 
+Note: This is the code that was submitted for the review. For purposes of keeping information anonymous the code(variables, function names, comments etc.) may not be very understandable. We are in the process of cleaning the code and will push the changes post this. Please write back in case of any queries.
 
 ## Short Description about FeTA
 
