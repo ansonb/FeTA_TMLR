@@ -114,22 +114,14 @@ python run_transformer_gckn_gengcn.py --gnn_type='ChebConvDynamic' --pos-enc dif
 If you use our work kindly consider citing
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2201.09332,
-  doi = {10.48550/ARXIV.2201.09332},
-  
-  url = {https://arxiv.org/abs/2201.09332},
-  
-  author = {Bastos, Anson and Nadgeri, Abhishek and Singh, Kuldeep and Kanezashi, Hiroki and Suzumura, Toyotaro and Mulang', Isaiah Onando},
-  
-  keywords = {Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {Investigating Expressiveness of Transformer in Spectral Domain for Graphs},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {Creative Commons Attribution 4.0 International}
+@article{
+bastos2022how,
+title={How Expressive are Transformers in Spectral Domain for Graphs?},
+author={Anson Bastos and Abhishek Nadgeri and Kuldeep Singh and Hiroki Kanezashi and Toyotaro Suzumura and Isaiah Onando Mulang'},
+journal={Transactions on Machine Learning Research},
+year={2022},
+url={https://openreview.net/forum?id=aRsLetumx1},
+note={}
 }
 ```
 
